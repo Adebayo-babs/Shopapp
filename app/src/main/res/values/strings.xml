@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Kotlin To Do App</string>
+    <string name="product_name">Product Name</string>
+    <string name="save">Save</string>
+    <string name="update">Update</string>
+    <string name="product_description">Product Description</string>
+    <string name="product_price">Product Price</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter_your_email">Enter Your Email .....</string>
+    <string name="enter_your_pass">Enter Your Password .....</string>
+    <string name="re_enter_your_pass">Re-enter Your Password .....</string>
+    <string name="type_your_task">Type your task .....</string>
+</resources>
